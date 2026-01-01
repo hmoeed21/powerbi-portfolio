@@ -6,18 +6,18 @@ Below are a few projects I have completed where I apply my data analysis skills 
 
 -------
 
-## 1. Hospital Readmission Dashboard (Power BI)
+## 1. JNGTX Stock Forecasting & Analysis (Time Series Analysis, Power BI)
+- Analyzed mutual fund stock data from Yahoo Finance API to forecast future prices
+- Visualized key metrics of the stock through Power BI
+- Used Power Query, DAX, and custom KPIs
+- [View Project](./powerbi-stock-analysis/README.md)
+
+## 2. Hospital Readmission Dashboard (Power BI)
 - Analyzed CMS data to visualize readmission trends, costs, and patient outcomes
 - Used Power Query, DAX, and custom KPIs
 - [View Project](./powerbi-readmission-dashboard/README.md)
 
-## 2. SQL for Healthcare Analytics
-- Wrote advances SQL queries on mock EHR data: joins, subqueries, window functions
-- Answered real world clinical and operational questions
-- [View Project](./sql-healthcare-project/README.md)
 
-## 3. Medical Chatbot with Azure OpenAI
--Building a conversational bot using Azure OpenAI + Python to assist with patient FAQs
 
 ## Tools and Skills
 - SQL (PostgreSQL, BigQuery)
